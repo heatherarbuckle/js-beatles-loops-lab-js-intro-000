@@ -21,7 +21,7 @@ function johnLennonFacts(factArray) {
 function iLoveTheBeatles(num) {
   var love = [];
   var i = 0;
- 
+
 function incrementVariable() {
   i = i + 1;
   return i;
